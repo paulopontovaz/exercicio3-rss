@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">RSS3</string>
+    <string name="rss_feed_link">http://g1.globo.com/dynamo/brasil/rss2.xml</string>
+    <string name="rss_feed_key_name">rss_feed_link</string>
+    <string name="rss_update_frequency_key_name">rss_update_frequency</string>
+    <string name="default_rss_update_frequency">3600000</string>
+    <string name="job_update_feed_id">42</string>
+</resources>
